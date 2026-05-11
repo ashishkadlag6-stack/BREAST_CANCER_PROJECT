@@ -1,0 +1,7 @@
+matpolotlib
+numpy
+streamlite
+sklearn
+pandas
+scipy
+seaborn
